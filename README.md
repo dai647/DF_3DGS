@@ -1,6 +1,6 @@
 # Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression
 
-![Teaser image](assets/framework.png) 
+![Teaser image](assets/framework_cam.png) 
 
 <!-- <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">

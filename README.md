@@ -53,7 +53,7 @@ pip install -r requirements.txt
 Download the LSeg model `demo_e200.ckpt` from [the Google drive](https://drive.google.com/file/d/1ayk6NXURI_vIPlym16f_RG3ffxBWHxvb/view?usp=sharing) and put it to `lseg_encoder/checkpoint`.
 
 # Run
-For detailed steps, please refer to the `commet.sh` file.
+For detailed steps, please refer to the `comment.sh` file.
 
 ## Acknowledgement
 Our repository is developed based on the excellent work of the following open-source projects:[Feature_3DGS](https://feature-3dgs.github.io/), [LangSplat](https://langsplat.github.io/),[gsplat](https://github.com/nerfstudio-project/gsplat),[3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). We would like to extend our sincere gratitude to the authors for making their codebases available to the public.

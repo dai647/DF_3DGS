@@ -20,7 +20,7 @@ The environment for our project is similar to that of our main baseline [Feature
 
 ```shell
 conda create --name df_3dgs python=3.8
-conda activate feature_3dgs
+conda activate df_3dgs
 
 pip install torch==2.0.1+cu118 torchvision==0.15.2+cu118 --index-url https://download.pytorch.org/whl/cu118
 

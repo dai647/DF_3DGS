@@ -48,7 +48,7 @@ pip install -r requirements.txt
         |---images.bin
         |---points3D.bin
 ```
-download data example `room_0` from [the Google drive](https://drive.google.com/file/d/1N6N3AesvoTIt3Uh8S2lxViE5fWDSASMV/view?usp=sharing) and put it to `DF_3DGS/dataset/`
+`DF_3DGS/dataset/`
 # LSeg encoder
 Download the LSeg model `demo_e200.ckpt` from [the Google drive](https://drive.google.com/file/d/1ayk6NXURI_vIPlym16f_RG3ffxBWHxvb/view?usp=sharing) and put it to `lseg_encoder/checkpoint`.
 

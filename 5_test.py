@@ -72,7 +72,6 @@ def test(dataset, opt, pipe, testing_iterations, saving_iterations, checkpoint_i
         no_AE=True
     print('no_AE: ',no_AE)
     
-    #######text label
     checkpoint=torch.load(f'autoencoder/Sences/{sence_name}/latest_AE_ckpt.pth')
 
     encoder_hidden_dims = [256, 128, 64, 32, 9]

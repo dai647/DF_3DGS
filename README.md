@@ -48,7 +48,7 @@ pip install -r requirements.txt
         |---images.bin
         |---points3D.bin
 ```
-`DF_3DGS/dataset/`
+
 # LSeg encoder
 Download the LSeg model `demo_e200.ckpt` from [the Google drive](https://drive.google.com/file/d/1ayk6NXURI_vIPlym16f_RG3ffxBWHxvb/view?usp=sharing) and put it to `lseg_encoder/checkpoint`.
 
